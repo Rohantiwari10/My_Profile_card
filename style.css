@@ -13,14 +13,14 @@
     background-position: center;
     align-items: center;
     justify-content:center;
-    display: flex;
 
 }
 
 .profile-box{
     background:#87CEEB;
     text-align: center;
-    padding: 120px 100px;
+    padding: 120px 100px; 
+    margin: auto;
     color:#000;
     position: relative;
     border-radius:20 px;
